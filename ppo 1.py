@@ -47,6 +47,4 @@ while continuar:
         continuar = False 
         print('O aplicativo foi finalizado com sucesso. ')
 
-'''print(primeira_pessoa.correr())
-print(primeira_pessoa.abraçar())
-print(primeira_pessoa.cumprimentar()) '''
+
